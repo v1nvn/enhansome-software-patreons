@@ -1,0 +1,1095 @@
+{
+  "items": [
+    {
+      "description": "Projects released with an open source license.",
+      "items": [
+        {
+          "children": [],
+          "description": "Linux application for UI and UX design.",
+          "title": "Akira"
+        },
+        {
+          "children": [],
+          "description": "Keyboard launcher written in C++/Qt.",
+          "title": "Albert launcher"
+        },
+        {
+          "children": [],
+          "description": "Linux filesystem.",
+          "title": "bcachefs"
+        },
+        {
+          "children": [],
+          "description": "3D creation suite",
+          "title": "Blender"
+        },
+        {
+          "children": [],
+          "description": "Easily manage and run Windows apps on Linux.",
+          "title": "Bottles"
+        },
+        {
+          "children": [],
+          "description": "E-books manager.",
+          "title": "Calibre"
+        },
+        {
+          "children": [],
+          "description": "Online decompiler and compiler explorer.",
+          "title": "Compiler Explorer"
+        },
+        {
+          "children": [],
+          "description": "BitTorrent client.",
+          "title": "Deluge"
+        },
+        {
+          "children": [],
+          "description": "Wiki application.",
+          "title": "DokuWiki"
+        },
+        {
+          "children": [],
+          "description": "Backup client.",
+          "title": "Duplicati"
+        },
+        {
+          "children": [],
+          "description": "An installable catalogue of FOSS applications for the Android platform.",
+          "title": "F-Droid"
+        },
+        {
+          "children": [],
+          "description": "Self-hosted VPN server using WireGuard.",
+          "title": "Firezone"
+        },
+        {
+          "children": [],
+          "description": "Parametric 3D modeler made primarily to design real-life objects of any size.",
+          "title": "FreeCAD"
+        },
+        {
+          "children": [],
+          "description": "Productivity app for Developers, Designers and other professionals.",
+          "title": "Freeter"
+        },
+        {
+          "children": [],
+          "description": "Complete 3D engine.",
+          "title": "Godot Engine"
+        },
+        {
+          "children": [],
+          "description": "Cross-platform 2D game engine.",
+          "title": "HaxeFlixel"
+        },
+        {
+          "children": [],
+          "description": "Package manager for macOS.",
+          "title": "Homebrew"
+        },
+        {
+          "children": [],
+          "description": "macOS terminal replacement.",
+          "title": "iTerm2"
+        },
+        {
+          "children": [],
+          "description": "Software for bibliography management",
+          "title": "JabRef"
+        },
+        {
+          "children": [],
+          "description": "Open Source application platform for creating Spring Boot + Angular/React/Vue projects in seconds.",
+          "title": "JHipster"
+        },
+        {
+          "children": [],
+          "description": "Kismet wireless tool.",
+          "title": "Kismet"
+        },
+        {
+          "children": [],
+          "description": "Automatic normal/specular/occlussion/parallax map generator for 2D game sprites.",
+          "title": "Laigter"
+        },
+        {
+          "children": [],
+          "description": "Knowledge management",
+          "title": "LogSeq"
+        },
+        {
+          "children": [],
+          "description": "Platform for flashcards",
+          "title": "Memcode"
+        },
+        {
+          "children": [],
+          "description": "Music notation software.",
+          "title": "MuseScore"
+        },
+        {
+          "children": [],
+          "description": "Native mobile applications with NativeScript and Vue.",
+          "title": "NativeScript-Vue"
+        },
+        {
+          "children": [],
+          "description": "Vim-fork focused on extensibility and usability.",
+          "title": "Neovim"
+        },
+        {
+          "children": [],
+          "description": "FLOSS video player on Android for services like YouTube, Soundcloud etc.",
+          "title": "NewPipe"
+        },
+        {
+          "children": [],
+          "description": "High quality video editing and compositing software.",
+          "title": "Olive"
+        },
+        {
+          "children": [],
+          "description": "Video recording and live streaming software.",
+          "title": "Open Broadcaster Software"
+        },
+        {
+          "children": [],
+          "description": "Umbrella of multiple open source chemistry projects including Avogadro, cclib, DeepChem, MSDK, Open Babel, RDKit, and 3DMol.js.",
+          "title": "Open Chemistry"
+        },
+        {
+          "children": [],
+          "description": "Tools for building information modeling.",
+          "title": "Open Source BIM Collective"
+        },
+        {
+          "children": [],
+          "description": "Real time strategy game engine.",
+          "title": "openage"
+        },
+        {
+          "children": [],
+          "description": "Serverless platform.",
+          "title": "OpenFAAS"
+        },
+        {
+          "children": [],
+          "description": "Video editor.",
+          "title": "OpenShot"
+        },
+        {
+          "children": [],
+          "description": "Full computer control and speech with your eyes.",
+          "title": "OptiKey"
+        },
+        {
+          "children": [],
+          "description": "Personal document manager.",
+          "title": "Paperwork"
+        },
+        {
+          "children": [],
+          "description": "Personal storage system.",
+          "title": "Perkeep"
+        },
+        {
+          "children": [],
+          "description": "PHP static analyzer.",
+          "title": "PHPStan"
+        },
+        {
+          "children": [],
+          "description": "PHPUnit and related projects.",
+          "title": "PHPUnit"
+        },
+        {
+          "children": [],
+          "description": "A free & open-source 2D sprite editor, made with the Godot Engine.",
+          "title": "Pixelorama"
+        },
+        {
+          "children": [],
+          "description": "UML diagram creation software.",
+          "title": "PlantUML"
+        },
+        {
+          "children": [],
+          "description": "Java editor plugin.",
+          "title": "Project Lombok"
+        },
+        {
+          "children": [],
+          "description": "Remote desktop client.",
+          "title": "Remmina"
+        },
+        {
+          "children": [],
+          "description": "Screen capture and screen sharing tool.",
+          "title": "ShareX Team"
+        },
+        {
+          "children": [],
+          "description": "Code-based music creation and performance tool.",
+          "title": "Sonic Pi"
+        },
+        {
+          "children": [],
+          "description": "System V init implementation.",
+          "title": "SysV init"
+        },
+        {
+          "children": [],
+          "description": "Android terminal emulator.",
+          "title": "Termux"
+        },
+        {
+          "children": [],
+          "description": "Ecommerce software.",
+          "title": "Thirty Bees"
+        },
+        {
+          "children": [],
+          "description": "A 2D game level editor.",
+          "title": "Tiled"
+        },
+        {
+          "children": [],
+          "description": "BitTorrent client.",
+          "title": "Transmission"
+        },
+        {
+          "children": [],
+          "description": "Statically typed compiled programming language similar to Go, influenced by Oberon, Rust, Swift.",
+          "title": "V Programming Language"
+        },
+        {
+          "children": [],
+          "description": "Maker of the VLC video player.",
+          "title": "VideoLAN"
+        },
+        {
+          "children": [],
+          "description": "Go plugin for VIM.",
+          "title": "Vim-Go"
+        },
+        {
+          "children": [],
+          "description": "Localization tool with tight version control integration.",
+          "title": "Weblate"
+        },
+        {
+          "children": [],
+          "description": "JavaScript module bundler.",
+          "title": "Webpack"
+        },
+        {
+          "children": [],
+          "description": "Wiki platform built with Node.js.",
+          "title": "Wiki.js"
+        },
+        {
+          "children": [],
+          "description": "Next generation secure network tunnel.",
+          "title": "WireGuard"
+        },
+        {
+          "children": [],
+          "description": "Helping as many people as possible understand their networks as much as possible.",
+          "title": "Wireshark"
+        },
+        {
+          "children": [],
+          "description": "Desktop environment for UNIX-like operating systems.",
+          "title": "Xfce"
+        },
+        {
+          "children": [],
+          "description": "System programming language which prioritizes robustness, optimality, and clarity.",
+          "title": "Zig"
+        },
+        {
+          "children": [],
+          "description": "A highly automated and intuitive digital audio workstation.",
+          "title": "Zrythm"
+        },
+        {
+          "children": [],
+          "description": "3D kitbashing solution & CC0 model library.",
+          "title": "Kitbashery"
+        }
+      ],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "children": [],
+          "description": "Social reading and reviewing, decentralized with ActivityPub.",
+          "title": "BookWyrm"
+        },
+        {
+          "children": [],
+          "description": "Ubuntu email client.",
+          "title": "Dekko Project"
+        },
+        {
+          "children": [],
+          "description": "Forum platform.",
+          "title": "Flarum"
+        },
+        {
+          "children": [],
+          "description": "A free, federated and social music server.",
+          "title": "Funkwhale"
+        },
+        {
+          "children": [],
+          "description": "Modern web IRC client.",
+          "title": "The Lounge"
+        },
+        {
+          "children": [],
+          "description": "Federated social network server.",
+          "title": "Mastodon"
+        },
+        {
+          "children": [],
+          "description": "An open network for secure, decentralized communication.",
+          "title": "Matrix"
+        },
+        {
+          "children": [],
+          "description": "Federated microblogging platform.",
+          "title": "MissKey"
+        },
+        {
+          "children": [],
+          "description": "Free and open source Twitter client focused on privacy.",
+          "title": "Nitter"
+        },
+        {
+          "children": [],
+          "description": "Federated image sharing powered by the ActivityPub protocol.",
+          "title": "PixelFed"
+        },
+        {
+          "children": [],
+          "description": "Microblogging platform.",
+          "title": "postActiv"
+        },
+        {
+          "children": [],
+          "description": "Reddit browser extension.",
+          "title": "Reddit Enhancement Suite"
+        },
+        {
+          "children": [],
+          "description": "A social network following the Q/A (question and answer) principle.",
+          "title": "Retrospring"
+        },
+        {
+          "children": [],
+          "description": "A distributed and secure peer-to-peer protocol and social network.",
+          "title": "Secure Scuttlebutt"
+        }
+      ],
+      "title": "Messaging and social media"
+    },
+    {
+      "description": "Libraries and frameworks.",
+      "items": [
+        {
+          "children": [],
+          "description": "JavaScript charts library.",
+          "title": "ApexCharts"
+        },
+        {
+          "children": [],
+          "description": "Loads 40+ 3D file formats into one unified and clean data structure for game-developers.",
+          "title": "Asset-Importer-Lib"
+        },
+        {
+          "children": [],
+          "description": "JavaScript compiler.",
+          "title": "Babel"
+        },
+        {
+          "children": [],
+          "description": "Immediate Mode Graphical User interface for C++.",
+          "title": "Dear ImGui",
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-05T15:52:11Z",
+            "owner": "ocornut",
+            "repo": "imgui",
+            "stars": 71199
+          }
+        },
+        {
+          "children": [],
+          "description": "Node.js framework.",
+          "title": "Hapi.js"
+        },
+        {
+          "children": [],
+          "description": "User interface toolkit.",
+          "title": "HaxeUI"
+        },
+        {
+          "children": [],
+          "description": "A cross-platform GUI library for Rust, inspired by Elm.",
+          "title": "Iced"
+        },
+        {
+          "children": [],
+          "description": "PHP framework.",
+          "title": "Laravel"
+        },
+        {
+          "children": [],
+          "description": "Game development framework.",
+          "title": "LibGDX"
+        },
+        {
+          "children": [],
+          "description": "A free-as-in-freedom re-implementation of Google's proprietary Android user space apps and libraries.",
+          "title": "MicroG"
+        },
+        {
+          "children": [],
+          "description": "Progressive microservices framework for Node.js.",
+          "title": "Moleculer"
+        },
+        {
+          "children": [],
+          "description": "The Musl libc project.",
+          "title": "Musl libc"
+        },
+        {
+          "children": [],
+          "description": "Cross-platform application framework.",
+          "title": "OpenFL"
+        },
+        {
+          "children": [],
+          "description": "Web framework delivered as a C extension for PHP.",
+          "title": "Phalcon"
+        },
+        {
+          "children": [],
+          "description": "Standard library for JavaScript and Node.js with an emphasis on scientific computing.",
+          "title": "stdlib"
+        },
+        {
+          "children": [],
+          "description": "JavaScript library for building interactive tables.",
+          "title": "Tabulator"
+        },
+        {
+          "children": [],
+          "description": "Server-side Swift framework.",
+          "title": "Vapor"
+        },
+        {
+          "children": [],
+          "description": "Vue.js.",
+          "title": "Vue.js"
+        },
+        {
+          "children": [],
+          "description": "PHP framework.",
+          "title": "Yii framework"
+        },
+        {
+          "children": [],
+          "description": "A server-less Python framework.",
+          "title": "Zappa"
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "Operating Systems and Linux distributions.",
+      "items": [
+        {
+          "children": [],
+          "description": "Privacy-focused mobile OS.",
+          "title": "/e/"
+        },
+        {
+          "children": [],
+          "description": "Ubuntu variant.",
+          "title": "Elementary OS"
+        },
+        {
+          "children": [],
+          "description": "MS-DOS compatible operating system.",
+          "title": "FreeDOS"
+        },
+        {
+          "children": [],
+          "description": "Desktop-focused BSD OS.",
+          "title": "GhostBSD"
+        },
+        {
+          "children": [],
+          "description": "A privacy and security focused mobile OS with Android app compatibility.",
+          "title": "GrapheneOS"
+        },
+        {
+          "children": [],
+          "description": "Fork of CyanogenMod.",
+          "title": "LineageOS"
+        },
+        {
+          "children": [],
+          "description": "Linux distribution.",
+          "title": "Linux Lite"
+        },
+        {
+          "children": [],
+          "description": "Debian for mobile.",
+          "title": "Mobian"
+        },
+        {
+          "children": [],
+          "description": "Security-related Debian distribution.",
+          "title": "Parrot"
+        },
+        {
+          "children": [],
+          "description": "A real Linux distribution for phones.",
+          "title": "PostmarketOS"
+        },
+        {
+          "children": [],
+          "description": "A reasonably secure operating system.",
+          "title": "Qubes OS"
+        },
+        {
+          "children": [],
+          "description": "A free Windows-compatible Operating System",
+          "title": "ReactOS"
+        },
+        {
+          "children": [],
+          "description": "OS written in Rust.",
+          "title": "Redox OS"
+        },
+        {
+          "children": [],
+          "description": "A graphical Unix-like OS for x86, with 90s aesthetics.",
+          "title": "Serenity OS"
+        },
+        {
+          "children": [],
+          "description": "Linux distribution.",
+          "title": "Slackware Linux"
+        },
+        {
+          "children": [],
+          "description": "Linux distibution.",
+          "title": "Solus"
+        },
+        {
+          "children": [],
+          "description": "Ubuntu variant.",
+          "title": "Ubuntu Mate"
+        },
+        {
+          "children": [],
+          "description": "Ubuntu variant for creating audio, video, graphics etc.",
+          "title": "Ubuntu Studio"
+        },
+        {
+          "children": [],
+          "description": "Touch-friendly mobile version of Ubuntu.",
+          "title": "Ubuntu Touch"
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": "Hardware-related projects and makers.",
+      "items": [
+        {
+          "children": [],
+          "description": "Electric vehicle projects.",
+          "title": "Damien Maguire"
+        },
+        {
+          "children": [],
+          "description": "Improving Linux support for (non-Wacom) graphics tablets.",
+          "title": "DIGImend"
+        },
+        {
+          "children": [],
+          "description": "JavaScript interpreter for microcontrollers.",
+          "title": "Espruino"
+        },
+        {
+          "children": [],
+          "description": "FPGA and other hardware projects.",
+          "title": "Frank Buss"
+        },
+        {
+          "children": [],
+          "description": "Improved Linux support for touchpads.",
+          "title": "GitClear"
+        },
+        {
+          "children": [],
+          "description": "Linux Focusrite Scarlett software.",
+          "title": "Geoffrey D. Bennett"
+        },
+        {
+          "children": [],
+          "description": "Asahi, Linux support for Apple Silicon Macs.",
+          "title": "Hector Martin \"marcan\""
+        },
+        {
+          "children": [],
+          "description": "Software to develop printed circuit boards.",
+          "title": "LibrePCB"
+        },
+        {
+          "children": [],
+          "description": "Reverse-engineering and writing Linux drivers for audio hardware on Apple Silicon Macs.",
+          "title": "Martin Povišer"
+        },
+        {
+          "children": [],
+          "description": "Windows drivers for the Sony DualShock controller and others.",
+          "title": "Nefarius Software Solutions"
+        },
+        {
+          "children": [],
+          "description": "Web interface for 3D printers.",
+          "title": "OctoPrint"
+        },
+        {
+          "children": [],
+          "description": "RGB lighting control application.",
+          "title": "OpenRGB"
+        },
+        {
+          "children": [],
+          "description": "Pinout diagrams for various microcontrollers.",
+          "title": "Pinout.xyz"
+        },
+        {
+          "children": [],
+          "description": "Retro gaming.",
+          "title": "Professor Abrasive"
+        }
+      ],
+      "title": "Hardware related"
+    },
+    {
+      "description": "Developers contributing to multiple projects that ask to support their work.",
+      "items": [
+        {
+          "children": [],
+          "description": "RLTrader, Tensortrade and other trading related projects.",
+          "title": "Adam King"
+        },
+        {
+          "children": [],
+          "description": "LibreOffice developer.",
+          "title": "Andreas Heinisch"
+        },
+        {
+          "children": [],
+          "description": "LibreOffice designer.",
+          "title": "Andreas Kainz"
+        },
+        {
+          "children": [],
+          "description": "Programming tutorials, games and mods.",
+          "title": "Andreas Pardeike"
+        },
+        {
+          "children": [],
+          "description": "KDE contributor, mainly KDE Partition Manager.",
+          "title": "Andrius Štikonas"
+        },
+        {
+          "children": [],
+          "description": "Shared Media Tagger, Open Translation Engine, and many more projects.",
+          "title": "Attogram Project"
+        },
+        {
+          "children": [],
+          "description": "FOSS Nerd developing open source games in Godot and Rust",
+          "title": "Bailey Burnsed"
+        },
+        {
+          "children": [],
+          "description": "Conversations Jabber client.",
+          "title": "Daniel Gultsch"
+        },
+        {
+          "children": [],
+          "description": "Contributor to Flarum and other PHP projects.",
+          "title": "Daniël Klabbers"
+        },
+        {
+          "children": [],
+          "description": "Working on improving the Internet.",
+          "title": "Dave Täht"
+        },
+        {
+          "children": [],
+          "description": "ElementaryOS contributor, Torrential, Clipped.",
+          "title": "David Hewitt"
+        },
+        {
+          "children": [],
+          "description": "Various contributions to the PostgreSQL ecosystem (pgloader, pg_auto_failover), Emacs libraries (el-get), author.",
+          "title": "Dimitri Fontaine"
+        },
+        {
+          "children": [],
+          "description": "Working on tooling for the Go programming language.",
+          "title": "Dominik Honnef"
+        },
+        {
+          "children": [],
+          "description": "Creator of Uncomplicate, a family of Clojure libraries for AI, ML, and GPU high performance computing.",
+          "title": "Dragan Djuric"
+        },
+        {
+          "children": [],
+          "description": "sway, wlroots, sr.ht, scdoc, aerc, and more.",
+          "title": "Drew DeVault"
+        },
+        {
+          "children": [],
+          "description": "Games, applications and articles.",
+          "title": "Eevee"
+        },
+        {
+          "children": [],
+          "description": "Various JavaScript libraries and tools.",
+          "title": "Egoist"
+        },
+        {
+          "children": [],
+          "description": "Moblin, iOS app for IRL streaming and many other libraries.",
+          "title": "Erik Moqvist"
+        },
+        {
+          "children": [],
+          "description": "Nethack, GPSd, author of \"The Cathedral and the Bazaar\".",
+          "title": "Eric S. Raymond"
+        },
+        {
+          "children": [],
+          "description": "Contributions to FNA, SDL2 C# and other projects.",
+          "title": "Ethan Lee"
+        },
+        {
+          "children": [],
+          "description": "Working on PyDev and related projects.",
+          "title": "Fabio Zadrozny"
+        },
+        {
+          "children": [],
+          "description": "Various projects and libraries like OkReplay, AirMapView, AsymmetricGridView, GifImageView, Wombat.",
+          "title": "Felipe Lima"
+        },
+        {
+          "children": [],
+          "description": "WebTorrent, StandardJS, and other JavaScript projects.",
+          "title": "Feross Aboukhadijeh"
+        },
+        {
+          "children": [],
+          "description": "Apertium, linguistic tools for minority languages.",
+          "title": "Flammie"
+        },
+        {
+          "children": [],
+          "description": "Creates Home Assistant add-ons and helps out on the main project.",
+          "title": "Franck Nijhof"
+        },
+        {
+          "children": [],
+          "description": "Dhall language, Nix and Haskell educational projects and Haskell libraries and tool.",
+          "title": "Gabriel Gonzalez"
+        },
+        {
+          "children": [],
+          "description": "Raneto, Vue.js libraries and more.",
+          "title": "Gilbert Pellegrom"
+        },
+        {
+          "children": [],
+          "description": "Projects in the IndieWeb sphere, Koype and contributions to other open source projects.",
+          "title": "Jacky Alcine"
+        },
+        {
+          "children": [],
+          "description": "mgmt config, articles and more.",
+          "title": "James 'Purpleidea'"
+        },
+        {
+          "children": [],
+          "description": "Creates C++ libraries and standards proposals.",
+          "title": "JeanHeyd Meneide"
+        },
+        {
+          "children": [],
+          "description": "git-annex, keysafe, other Linux software.",
+          "title": "Joey Hess"
+        },
+        {
+          "children": [],
+          "description": "Bootstrap JavaScript developer and various plugins and projects.",
+          "title": "Johann-S"
+        },
+        {
+          "children": [],
+          "description": "Hyperapp and many other JavaScript projects.",
+          "title": "Jorge Bucaran"
+        },
+        {
+          "children": [],
+          "description": "Various C++ libraries, tools, articles.",
+          "title": "Jonathan Müller"
+        },
+        {
+          "children": [],
+          "description": "Contributor to projects such as GIMP, OpenSimulator, KiCad and TinyScheme.",
+          "title": "Kevin Cozens"
+        },
+        {
+          "children": [],
+          "description": "API Platform, Vulcain, Mercure and Symfony contributions.",
+          "title": "Kévin Dunglas"
+        },
+        {
+          "children": [],
+          "description": "A multitude of libraries, applications and articles about iOS/Cocoa,",
+          "title": "Khoa Pham"
+        },
+        {
+          "children": [],
+          "description": "Syncthing-GTK and SC-Controller.",
+          "title": "Kozec"
+        },
+        {
+          "children": [],
+          "description": "FreeCAD contributor and Debian packager.",
+          "title": "Kurt Kremitzki"
+        },
+        {
+          "children": [],
+          "description": "Various PHP libraries and OSS contributions.",
+          "title": "Lars Moelleken"
+        },
+        {
+          "children": [],
+          "description": "Author of bfgminer and other substantial contributions to Bitcoin.",
+          "title": "Luke Dashjr"
+        },
+        {
+          "children": [],
+          "description": "Angular-calendar and other angular components.",
+          "title": "Matt Lewis"
+        },
+        {
+          "children": [],
+          "description": "Bref, PHP-DI and other PHP libraries.",
+          "title": "Matthieu Napoli"
+        },
+        {
+          "children": [],
+          "description": "Various pentesting frameworks and tools.",
+          "title": "Max Bridgland"
+        },
+        {
+          "children": [],
+          "description": "Creator of Homebrew, maintainer of PromiseKit and a multitude of other project for Apple platforms.",
+          "title": "Max Howell"
+        },
+        {
+          "children": [],
+          "description": "Contributor to Weblate and phpMyAdmin.",
+          "title": "Michal Čihař"
+        },
+        {
+          "children": [],
+          "description": "KDE contributor.",
+          "title": "Nate Graham"
+        },
+        {
+          "children": [],
+          "description": "ArchiveBox and OSS contributions but also articles and documentation.",
+          "title": "Nick Sweeting"
+        },
+        {
+          "children": [],
+          "description": "Various Common Lisp libraries.",
+          "title": "Nicolas Hafner"
+        },
+        {
+          "children": [],
+          "description": "Download Them All! Firefox and Chrome extension.",
+          "title": "Nils Maier"
+        },
+        {
+          "children": [],
+          "description": "GNU Emacs plugins, maintainer of Ivy/Swiper/Counsel, Hydra, Avy, Lispy, and more.",
+          "title": "Oleh Krehel"
+        },
+        {
+          "children": [],
+          "description": "Debian packager.",
+          "title": "Ondřej Surý"
+        },
+        {
+          "children": [],
+          "description": "Owner of Objective-See, various macOS security tools and articles.",
+          "title": "Patrick Wardle"
+        },
+        {
+          "children": [],
+          "description": "Tuist and XcodeProj libraries, articles.",
+          "title": "Pedro Piñera"
+        },
+        {
+          "children": [],
+          "description": "Various iOS libraries and projects.",
+          "title": "Pedro Carrasco"
+        },
+        {
+          "children": [],
+          "description": "X server, Buildbot CI, Barrier and many others.",
+          "title": "Povilas Kanapickas"
+        },
+        {
+          "children": [],
+          "description": "druid and other Rust projects.",
+          "title": "Raph Levien"
+        },
+        {
+          "children": [],
+          "description": "Maintaining and developing software such as cperl, parrot, a lot of perl5 modules, safeclib and libredwg.",
+          "title": "Reini Urban"
+        },
+        {
+          "children": [],
+          "description": "T2 System Development Environment.",
+          "title": "René Rebe"
+        },
+        {
+          "children": [],
+          "description": "Open source tools and games.",
+          "title": "Rekka Bellum & Devine Lu Linvega"
+        },
+        {
+          "children": [],
+          "description": "Working on Toybox, mkroot and various other projects.",
+          "title": "Rob Landley"
+        },
+        {
+          "children": [],
+          "description": "Linux ports of games, game-related utilities.",
+          "title": "Ryan C. Gordon"
+        },
+        {
+          "children": [],
+          "description": "Mowglii apps, author of Itsycal and Snk.",
+          "title": "Sanjay Madan"
+        },
+        {
+          "children": [],
+          "description": "KDE contributor.",
+          "title": "Scarlett Moore"
+        },
+        {
+          "children": [],
+          "description": "Contributor to Marlin Firmware for 3D printers.",
+          "title": "Scott Lahteine"
+        },
+        {
+          "children": [],
+          "description": "Countless open source projects.",
+          "title": "Sindre Sorhus"
+        },
+        {
+          "children": [],
+          "description": "C++ libraries such as uvw and EnTT.",
+          "title": "skypjack"
+        },
+        {
+          "children": [],
+          "description": "AudioKit contributor, Makeself and other libraries and projects.",
+          "title": "Stéphane Peter"
+        },
+        {
+          "children": [],
+          "description": "MELPA lisp package archive and other software tooling.",
+          "title": "Steve Purcell"
+        },
+        {
+          "children": [],
+          "description": "Various iOS/macOS software.",
+          "title": "Steven Troughton-Smith"
+        },
+        {
+          "children": [],
+          "description": "Gaming related projects.",
+          "title": "Thomas M. Edwards"
+        },
+        {
+          "children": [],
+          "description": "Multitude of iOS libraries and various contribution to the iOS ecosystem.",
+          "title": "Tim Oliver"
+        },
+        {
+          "children": [],
+          "description": "GCompris contributor.",
+          "title": "Timothée Giet"
+        },
+        {
+          "children": [],
+          "description": "Founder and maintainer of Webpack.",
+          "title": "Tobias Koppers"
+        },
+        {
+          "children": [],
+          "description": "FreeCAD contributor.",
+          "title": "Yorik van Havre"
+        }
+      ],
+      "title": "People Doing Open Source Work"
+    },
+    {
+      "description": "Articles, videos, podcasts, etc…",
+      "items": [],
+      "title": "Other kinds of content"
+    },
+    {
+      "description": "Please take a quick look at the contribution guidelines first. Thanks to all contributors; you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This list adopts a Creative Commons Attribution-ShareAlike 4.0 license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-02-07T13:12:11.447Z",
+    "original_repository": "uraimo/awesome-software-patreons",
+    "source_repository": "v1nvn/enhansome-software-patreons",
+    "source_repository_description": "",
+    "title": "Awesome Software Patreons with stars"
+  }
+}
