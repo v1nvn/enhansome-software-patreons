@@ -1,0 +1,32 @@
+name: Enhance Awesome List
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  enhance_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          submodules: 'true'
+
+      - name: Run Awesome List Enhancer and Commit
+        uses: v1nvn/enhansome@v1
+        id: enhansome
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          file_to_enhance: 'README.md'
+
+      - name: Enhancement Complete
+        if: success()
+        run: echo "Awesome list enhancement complete."
