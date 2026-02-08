@@ -425,7 +425,7 @@
             "last_commit": "2026-02-05T15:52:11Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 71199
+            "stars": 71210
           }
         },
         {
@@ -1086,10 +1086,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:12:11.447Z",
+    "last_updated": "2026-02-08T04:32:41.384Z",
     "original_repository": "uraimo/awesome-software-patreons",
     "source_repository": "v1nvn/enhansome-software-patreons",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Software Patreons with stars"
   }
 }
