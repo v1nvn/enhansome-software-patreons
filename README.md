@@ -109,7 +109,7 @@ A tangible way to give back to the open source community!
 
 *Libraries and frameworks.*
 
-* [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) ⭐ 72,247 | 🐛 1,221 | 🌐 C++ | 📅 2026-03-25 - Immediate Mode Graphical User interface for C++.
+* [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) ⭐ 72,268 | 🐛 1,226 | 🌐 C++ | 📅 2026-03-25 - Immediate Mode Graphical User interface for C++.
 * [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 * [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 * [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
@@ -329,7 +329,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) ⭐ 527 | 🐛 3 | 📅 2025-12-29 first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors) ⭐ 527 | 🐛 3 | 📅 2025-12-29; you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) ⭐ 528 | 🐛 3 | 📅 2025-12-29 first. Thanks to all [contributors](https://github.com/uraimo/awesome-software-patreons/graphs/contributors) ⭐ 528 | 🐛 3 | 📅 2025-12-29; you rock!
 
 ## License
 
