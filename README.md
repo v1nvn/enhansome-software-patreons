@@ -109,7 +109,7 @@ A tangible way to give back to the open source community!
 
 *Libraries and frameworks.*
 
-* [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) ⭐ 72,301 | 🐛 1,221 | 🌐 C++ | 📅 2026-03-31 - Immediate Mode Graphical User interface for C++.
+* [Dear ImGui](https://github.com/ocornut/imgui/wiki/Sponsors) ⭐ 72,318 | 🐛 1,222 | 🌐 C++ | 📅 2026-04-01 - Immediate Mode Graphical User interface for C++.
 * [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 * [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 * [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
