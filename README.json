@@ -425,7 +425,7 @@
             "last_commit": "2026-04-24T15:38:57Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 72812
+            "stars": 72832
           }
         },
         {
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-26T04:58:52.414Z",
+    "last_updated": "2026-04-27T05:23:35.218Z",
     "original_repository": "uraimo/awesome-software-patreons",
     "source_repository": "v1nvn/enhansome-software-patreons",
     "source_repository_description": null,
