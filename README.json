@@ -422,10 +422,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-15T14:38:50Z",
+            "last_commit": "2026-05-18T12:32:04Z",
             "owner": "ocornut",
             "repo": "imgui",
-            "stars": 73269
+            "stars": 73289
           }
         },
         {
@@ -1086,7 +1086,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:13:50.237Z",
+    "last_updated": "2026-05-19T06:07:30.901Z",
     "original_repository": "uraimo/awesome-software-patreons",
     "source_repository": "v1nvn/enhansome-software-patreons",
     "source_repository_description": null,
